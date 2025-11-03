@@ -27,4 +27,9 @@ My name is Fiona Hanley, and I am a junior in bio at UMass. I am aiming to enter
 
 [Lab 6](lab6.html)
 
-![The London Eye](pathogenome/images/IMG_2797.jpeg)
+[![Me!](images2/IMG_4279.jpg)](https://quarto.org)
+
+```{r}
+usethis::use_github()
+
+```
